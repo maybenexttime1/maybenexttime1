@@ -1,10 +1,10 @@
 # Приветствую! 👋
 
-Меня зовут [Ильгар], и я занимаюсь [Программированием аудиосистем]. Добро пожаловать на мой GitHub профиль!
+Мы гильдия программистов, нас зовут Ильгар, Альберт и Ямиль и мы занимаемся Программированием аудиосистем. Добро пожаловать на нащ GitHub профиль!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ваш_username&color=brightgreen)
 
-## 🔧 Мои навыки
+## 🔧 Наши навыки
 - Языки программирования: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - Веб-разработка: ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - Работа с данными: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
